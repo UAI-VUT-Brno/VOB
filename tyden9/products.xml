@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Warehouse>
+  <Product>
+    <Id>1</Id>
+    <Name>Keyboard</Name>
+    <Category>Electronics</Category>
+    <Price>80</Price>
+    <InStock>true</InStock>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Monitor</Name>
+    <Category>Electronics</Category>
+    <Price>220</Price>
+    <InStock>true</InStock>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Desk</Name>
+    <Category>Furniture</Category>
+    <Price>150</Price>
+    <InStock>false</InStock>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Mouse</Name>
+    <Category>Electronics</Category>
+    <Price>35</Price>
+    <InStock>true</InStock>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Office Chair</Name>
+    <Category>Furniture</Category>
+    <Price>180</Price>
+    <InStock>false</InStock>
+  </Product>
+</Warehouse>
