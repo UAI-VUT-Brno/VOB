@@ -1,1 +1,0 @@
-type=robot,hours=8
