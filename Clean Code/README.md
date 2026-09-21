@@ -1,4 +1,4 @@
-# VCP-clean-code-rules
+# VOB-clean-code-rules
 Authors: VOB Contributors (see https://www.vut.cz/en/students/courses/detail/300243 / https://www.fme.vutbr.cz/studenti/predmety/300243 - in czech)
 
 Practical clean code reminders with tiny C# before/after snippets.
